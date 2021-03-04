@@ -1,4 +1,4 @@
-cliente_id,edad,educacion,ingreso,ingreso,indice_credito,otro_indice_credito,mora,ratio_ingresos_deuda
+cliente_id,edad,educacion,años_empleado,ingreso,indice_credito,otro_indice_credito,mora,ratio_ingresos_deuda
 1,41,2,6,19,0.124,1.073,0,6.3
 2,47,1,26,100,4.582,8.218,0,12.8
 3,33,2,10,57,6.111,5.802,1,20.9
